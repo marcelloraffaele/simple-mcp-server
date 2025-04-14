@@ -26,8 +26,8 @@ Modify the `mcp.server` configuration
         }
         
     }
-}```
-
+}
+```
 
 ## Run it locally
 
