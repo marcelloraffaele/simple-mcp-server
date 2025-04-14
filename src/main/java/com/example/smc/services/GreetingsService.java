@@ -15,7 +15,7 @@ public class GreetingsService {
         return String.format(
             "{\"id\": \"%s\", \"message\": \"%s\", \"date\": \"%s\"}",
             java.util.UUID.randomUUID().toString(),
-            "Hello, " + name + "!!!",
+            "Hello, " + name + "!",
             java.time.LocalDate.now().toString()
         );
     }
